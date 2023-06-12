@@ -1,6 +1,6 @@
 <div align=center>
-    <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" height=180>
-    <p> 2023</p>
+    <!-- <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" height=180>
+    <p> 2023</p> -->
     <h1>The-Complete-Python-Bootcamp-From-Zero-to-Hero-in-Python</h1>
     <p> Learn how to use Python for real-world tasks, such as working with PDF Files 📄, sending emails 📧, reading Excel files 📊, scraping websites for information 🌐, working with image files 🖼️, and much more! 🚀 </p>
 
